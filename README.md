@@ -1,3 +1,85 @@
+# Mossland Swap System
+
+The Mossland Swap System provides the functionality to exchange MossCoin (MOC) between the Luniverse network and the Ethereum network in order to enhance the trading activity of MossCoin. Through this feature, users can exchange MOC tokens between the two networks or vice versa. This swap system supports the following tokens:
+- MossCoin (MOC) on the Luniverse network
+- Wrapped MossCoin (WMOC) on the Ethereum network
+
+The primary purpose of the Mossland Swap System is to expand the usability of MossCoin by providing capabilities that can be utilized on both the Luniverse and Ethereum networks, thus increasing the liquidity level of MossCoin. The network swap functionality aims to improve trading efficiency and provide users with more options to utilize MOC tokens.
+
+**Key Links:**
+- Swap System: [swap.moss.land](https://swap.moss.land)
+- Disclosure System: [disclosure.moss.land](https://disclosure.moss.land)
+- MOC Lockup Address: [0xfb2b78e89be479318b62d94a93c3527ad8f4ff95](https://scan.luniverse.io/accounts/0xfb2b78e89be479318b62d94a93c3527ad8f4ff95)
+- WMOC Lockup Address: [0xbee20b9df360b8442534ed8059f3e5baeeb74eaf](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF?a=0xbee20b9df360b8442534ed8059f3e5baeeb74eaf)
+
+## Introduction to Wrapped MossCoin (WMOC)
+
+Wrapped MossCoin (WMOC) is an Ethereum-based ERC-20 token that is exchangeable with MossCoin (MOC) on a 1:1 basis.
+
+**Key Details:**
+- Contract Address: [0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF)
+- Contract Source Code:
+  - [Etherscan](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF#code)
+  - [mossland_swap/mosscoin_swap.sol](mosscoin_swap.sol)
+
+## Key Features
+
+- **Liquidity Provision:** WMOC enhances liquidity between the two networks by extending MossCoin to the Ethereum network.
+- **Utilization on Ethereum:** WMOC, as an ERC-20 token, can be utilized in various smart contracts and services within the Ethereum ecosystem.
+- **Network Swap:** Exchange MOC on the Luniverse network for WMOC on the Ethereum network, or vice versa.
+- **Exchange Ratio:** The swap ratio between MOC and WMOC is 1:1. However, users are responsible for Ethereum network transaction fees when executing swaps.
+
+**Expected Benefits of Mossland Swap System:**
+- Increased liquidity level for MossCoin
+- User base expansion through cross-network compatibility
+- Enhanced liquidity and utility of MOC tokens
+
+**Various Utilizations of WMOC on Ethereum Network:**
+- Participation in Decentralized Finance (DeFi) projects
+- Building services and applications on smart contracts
+- Exchange and trading with other tokens within the Ethereum ecosystem
+
+## Swap Process
+
+### Swap Procedure Overview
+1. Users initiate the swap process on the [Mossland Swap website](https://swap.moss.land).
+2. Users apply to swap MOC on the Luniverse network for WMOC on the Ethereum network.
+3. The corresponding amount of MOC is locked on the Luniverse network.
+4. An equivalent amount of WMOC is issued to the user's Ethereum network wallet.
+5. Upon completion of the swap, users can verify WMOC in their Ethereum network wallet.
+
+**Detailed Swap Process Documentation:**
+- [Preparing for Wrapped MossCoin (WMOC) Swap 1](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%841-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-23f06666f2c4)
+- [Preparing for Wrapped MossCoin (WMOC) Swap 2](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%842-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-bcc1e8d9e850)
+- [Preparing for Wrapped MossCoin (WMOC) Swap 3](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%843-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-f353e57cc926)
+- [Wrapped MossCoin (WMOC) Swap Guide <Desktop Version>](https://medium.com/mossland-blog/%EB%B3%B8%ED%8E%B8-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-2d6d20bc67e0)
+
+## Security Audit
+
+As of August 16, 2023, an external security audit is currently in progress.
+
+## FAQ
+
+**Q: What is the exchange ratio between MOC and WMOC?**
+> It's 1:1. However, Ethereum network transaction fees are required.
+
+**Q: Will the total supply of MossCoin increase?**
+> No, the total supply of MossCoin (MOC) on the Luniverse network is 500,000,000.
+
+**Q: Will WMOC issuance affect the circulating supply of MossCoin?**
+> It won't affect the circulating supply.
+> Issued WMOC is deposited in a lockup wallet, and when a 1:1 swap between MOC and WMOC occurs, the corresponding amount of MOC is locked up, and WMOC is unlocked.
+> Therefore, the combined total of circulating MOC and WMOC in the market remains the same as the original MossCoin circulating supply.
+
+## Related Links
+
+- [What is MossCoin Network?](https://medium.com/mossland-blog/%EB%AA%A8%EC%8A%A4%EC%BD%94%EC%9D%B8%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%BC%EA%B9%8C-8877360f0da9)
+- [Birth of Wrapped MossCoin (WMOC)](https://medium.com/mossland-blog/wrapped-moc-wmoc-%ED%83%84%EC%83%9D-d76e36a60872)
+- [MossCoin Swap System](https://swap.moss.land)
+- [MossCoin Disclosure System](https://disclosure.moss.land)
+
+   
+---
 # 모스랜드 스왑 시스템
 
 모스랜드 스왑 시스템은 모스코인의 거래 수준을 높이기 위하여 루니버스(Luniverse) 네트워크와 이더리움 네트워크 간에 모스코인(MOC)을 교환하는 기능을 제공합니다. 이 기능을 통해 사용자는 두 네트워크 간에 MOC 토큰을 교환하거나 그 반대로 교환할 수 있습니다. 이 스왑 시스템은 다음의 토큰을 지원합니다:
