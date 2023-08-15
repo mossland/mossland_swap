@@ -7,7 +7,7 @@
 모스랜드 스왑 시스템의 목표는 루니버스와 이더리움 네트워크 간의 실시간 스왑 기능을 용이하게 만드는 것입니다. 이 기능은 두 네트워크 간의 간극을 줄여주며 사용자들이 MOC 토큰을 원활하게 변환할 수 있도록 돕는 역할을 합니다. 
 
 - 스왑 시스템: [swap.moss.land](https://swap.moss.land)
-- 공시 시스템 (스왑 시스템 실시간 상태 확인): [disclosure.moss.land](https://disclosure.moss.land)
+- 공시 시스템: [disclosure.moss.land](https://disclosure.moss.land)
 - MOC 락업 주소: [0xfb2b78e89be479318b62d94a93c3527ad8f4ff95](https://scan.luniverse.io/accounts/0xfb2b78e89be479318b62d94a93c3527ad8f4ff95)
 - WMOC 락업 주소: [0xbee20b9df360b8442534ed8059f3e5baeeb74eaf](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF?a=0xbee20b9df360b8442534ed8059f3e5baeeb74eaf)
 
