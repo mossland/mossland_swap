@@ -1,6 +1,6 @@
 # Mossland Swap System
 
-The Mossland Swap System provides the functionality to exchange MossCoin (MOC) between the Luniverse network and the Ethereum network in order to enhance the trading activity of MossCoin. Through this feature, users can exchange MOC tokens between the two networks or vice versa. This swap system supports the following tokens:
+The Mossland Swap System provides the functionality to exchange MossCoin (MOC) between the Luniverse network and the Ethereum network in order to enhance the liquidity level of MossCoin. Through this feature, users can exchange MOC tokens between the two networks or vice versa. This swap system supports the following tokens:
 - MossCoin (MOC) on the Luniverse network
 - Wrapped MossCoin (WMOC) on the Ethereum network
 
