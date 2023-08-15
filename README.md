@@ -43,9 +43,14 @@
 
 ## 스왑 비율
 
+MOC와 WMOC 간의 스왑 비율은 1:1입니다. 다만, 스왑 실행 시 이더리움 네트워크의 트랜잭션 수수료를 사용자가 부담해야 합니다.
 
-## 향후 개발 계획
+## 관련 링크
 
-모스랜드 스왑 시스템이 발전함에 따라 사용자 경험을 개선하고 스왑 프로세스를 최적화하는 추가 기능 및 개선 사항이 도입될 수 있습니다.
+- [모스코인은 무슨 네트워크일까?](https://medium.com/mossland-blog/%EB%AA%A8%EC%8A%A4%EC%BD%94%EC%9D%B8%EC%9D%80-%EB%AC%B4%EC%8A%A8-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%BC%EA%B9%8C-8877360f0da9)
+- [Wrapped MOC(WMOC) 탄생](https://medium.com/mossland-blog/wrapped-moc-wmoc-%ED%83%84%EC%83%9D-d76e36a60872)
+- [Wrapped MOC(WMOC) 스왑 준비하기 1](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%841-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-23f06666f2c4)
+- [Wrapped MOC(WMOC) 스왑 준비하기 2](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%842-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-bcc1e8d9e850)
+- [Wrapped MOC(WMOC) 스왑 준비하기 3](https://medium.com/mossland-blog/%EC%A4%80%EB%B9%843-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-f353e57cc926)
+- [Wrapped MOC(WMOC) 스왑 가이드 <데스크탑 편>](https://medium.com/mossland-blog/%EB%B3%B8%ED%8E%B8-wrapped-moc-wmoc-%EC%8A%A4%EC%99%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9D%B4%EB%93%9C-2d6d20bc67e0)
 
-더 자세한 정보는 [모스랜드 스왑 웹사이트](https://swap.moss.land)를 방문하거나 지원팀에 문의하시기 바랍니다.
