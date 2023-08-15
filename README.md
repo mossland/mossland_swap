@@ -16,7 +16,9 @@
 랩트 모스코인(Wrapped MOC, WMOC)은 모스코인(MossCoin, MOC)과 1:1 교환 가능한 이더리움 기반의 ERC-20 토큰입니다. 
 
 - 컨트랙트 주소: [0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF)
-- 컨트랙트 소스 코드: [Etherscan](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF#code)
+- 컨트랙트 소스 코드:
+  - [Etherscan](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF#code)
+  - [mossland_swap/mosscoin_swap.sol](mosscoin_swap.sol)
 
 ## 주요 특징
 
