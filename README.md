@@ -84,7 +84,7 @@ As of August 16, 2023, an external security audit is currently in progress.
 
 모스랜드 스왑 시스템은 모스코인의 거래 수준을 높이기 위하여 루니버스(Luniverse) 네트워크와 이더리움 네트워크 간에 모스코인(MOC)을 교환하는 기능을 제공합니다. 이 기능을 통해 사용자는 두 네트워크 간에 MOC 토큰을 교환하거나 그 반대로 교환할 수 있습니다. 이 스왑 시스템은 다음의 토큰을 지원합니다:
 - 루니버스 네트워크의 모스코인(MossCoin, MOC)
-- 이더리움 네트워크의 랩트 모스코인(Wrapped MOC, WMOC)
+- 이더리움 네트워크의 랩드 모스코인(Wrapped MOC, WMOC)
 
 모스랜드 스왑 시스템의 주요 목적은 모스코인의 거래 활성화를 위해 루니버스와 이더리움 네트워크 양쪽에서 사용할 수 있는 기능을 제공함으로써 확장시키는 것입니다. 이러한 네트워크 스왑 기능은 거래 효율성을 향상시키고 사용자들에게 MOC 토큰을 활용하는 더 많은 옵션을 제공하는 것을 목표로 합니다.
 
@@ -95,9 +95,9 @@ As of August 16, 2023, an external security audit is currently in progress.
 - MOC 락업 주소: [0xfb2b78e89be479318b62d94a93c3527ad8f4ff95](https://scan.luniverse.io/accounts/0xfb2b78e89be479318b62d94a93c3527ad8f4ff95)
 - WMOC 락업 주소: [0xbee20b9df360b8442534ed8059f3e5baeeb74eaf](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF?a=0xbee20b9df360b8442534ed8059f3e5baeeb74eaf)
 
-## 랩트 모스 코인 (WMOC) 소개
+## 랩드 모스 코인 (WMOC) 소개
 
-랩트 모스코인(Wrapped MOC, WMOC)은 모스코인(MossCoin, MOC)과 1:1 교환 가능한 이더리움 기반의 ERC-20 토큰입니다. 
+랩드 모스코인(Wrapped MOC, WMOC)은 모스코인(MossCoin, MOC)과 1:1 교환 가능한 이더리움 기반의 ERC-20 토큰입니다. 
 
 - 컨트랙트 주소: [0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF](https://etherscan.io/token/0xBeE20B9Df360B8442534Ed8059f3e5bAEeB74EaF)
 - 컨트랙트 소스 코드:
