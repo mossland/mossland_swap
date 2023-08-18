@@ -56,7 +56,12 @@ Wrapped MossCoin (WMOC) is an Ethereum-based ERC-20 token that is exchangeable w
 
 ## Security Audit
 
-As of August 16, 2023, an external security audit is currently in progress.
+The MossCoin swap system is crucial for securely storing deposited or locked MossCoin to prevent it from circulating in the market. The smart contract source code has undergone security audits internally within the Mossland team, and as of August 18, 2023, it has also undergone external security audits by the [Certik](https://www.certik.com/).
+- Certik Security Audit Report: https://skynet.certik.com/projects/mossland
+
+![image](https://github.com/mossland/mossland_swap/assets/38033515/e3abca87-b694-403b-9c48-c98c2327a9b5)
+
+The goal is to operate the MossCoin swap system safely, enhance the liquidity level of MossCoin, and explore various use cases.
 
 ## FAQ
 
@@ -139,7 +144,13 @@ As of August 16, 2023, an external security audit is currently in progress.
 
 ## 보안 감사
 
-2023년 8월 16일 현재, 외부 보안 감사가 진행 중입니다.
+모스코인 스왑 시스템은 예치되거나 락업된 모스코인을 안전하게 보관하여 시장에 유통되지 않도록 하는 것이 매우 중요합니다.
+스마트 컨트랙트 소스 코드는 모스랜드 팀 내부에서 보안 감사를 거쳤으며, 또한 2023년 8월 18일에는 보안 회사 [Certik](https://www.certik.com/)로부터 외부 보안 감사도 받았습니다.
+- Certik 보안 감사 리포트: https://skynet.certik.com/projects/mossland
+
+![image](https://github.com/mossland/mossland_swap/assets/38033515/e3abca87-b694-403b-9c48-c98c2327a9b5)
+
+모스코인 스왑 시스템을 안전하게 운영하여 모스코인의 거래 수준을 높이고 다양한 활용처를 발굴하는 것이 목표입니다.
 
 ## FAQ
 
